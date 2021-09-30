@@ -219,7 +219,7 @@ select > option {
 }
 
 /* Media Query: Large Smartphone (Vertical) */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .player {
     min-width: 0;
     max-height: 95vh;
